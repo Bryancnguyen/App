@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Bryans React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "bryan nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
